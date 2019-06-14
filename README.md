@@ -1,7 +1,7 @@
 # Media Controls for Spotify for Windows 10
 This hotkey uses capslock in all controls because capslock is the rarest button I press. If you want to use a different button to activate the media controls you can download the script.ahk and edit it with the button you like.
 
-[Click Here to Download Binary](https://www.google.com)
+[Click Here to Download Binary](https://github.com/alohajaycee/ahk-media-controls/raw/master/bin/caps_to_media_control.exe)
 ## How to Use?
 Download the binary file and execute it, done! To auto start on boot, press `` Windows Logo + R `` and type `shell:startup` paste the file you downloaded in the folder.
 ## Controls
